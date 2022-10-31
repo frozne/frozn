@@ -5,13 +5,16 @@
 Create cc.txt in current directory script.
 > CC FORMAT:
 > ccNumber|expMonth|expYear|cvc
+
 > ccNumber|expMonth|expYear|cvc
+
 type in cmd 
 > py checker.py
 
 
 ## CC Gen
 Best cc gen: [BINCHECK.io](https://bincheck.io/credit-card-generator)
+
 Best BINLIST: [BINCHECK.org](https://bincheck.org/)
 
 
