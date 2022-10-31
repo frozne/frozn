@@ -4,9 +4,10 @@
 ###### How to check CCS?
 Create cc.txt in current directory script.
 > CC FORMAT:
-> ccNumber|expMonth|expYear|cvc
-
-> ccNumber|expMonth|expYear|cvc
+```
+ccNumber|expMonth|expYear|cvc
+ccNumber|expMonth|expYear|cvc
+```
 
 type in cmd 
 > py checker.py
